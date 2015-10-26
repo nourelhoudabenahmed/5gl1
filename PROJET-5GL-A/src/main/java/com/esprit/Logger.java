@@ -2,6 +2,8 @@ package com.esprit;
 
 import java.util.Date;
 
+
+//this is a loogger
 public class Logger {
 
 	public void log(Class source, String message) {
